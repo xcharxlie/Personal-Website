@@ -1,0 +1,73 @@
+
+h1{
+  margin:0;
+  font-family: 'Sacramento', cursive;
+  font-size : 500%;
+  color: #66BFBF;
+}
+body{
+  margin:0;
+  text-align: center;
+  line-height: 1;
+  background-color:#E4F9F5;
+}
+h2{
+  color: #66BFBF;
+  font-size:120%;
+
+}
+.hello{
+  font-size:150%;
+}
+.avatar{
+  width:100px;
+  padding-top:150px;
+  margin:50px auto;
+}
+.profile{
+  text-align: center;
+}
+.skill-row{
+  width:50%;
+  margin: 50px auto 70px auto;
+  text-align: left;
+  line-height:1.5;
+}
+.com{
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+.chil{
+  width:25%;
+  float:right;
+  margin-left:30px;
+}
+h3{
+  color:#11999E;
+}
+a{
+  color:#11999E;
+}
+
+.top{
+  background-color:#E4F9F5;
+  padding-top:100px;
+}
+.text{
+  text-decoration: underline;
+}
+.bottom_cloud{
+  position:absolute;
+}
+.top_cloud{
+  position:absolute;
+  right:300px;
+  top:50px;
+}
+.mainBody{
+  margin-top: 40px;
+  margin-left:100px;
+  margin-right:100px;
+  text-align: center;
+}
